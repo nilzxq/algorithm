@@ -1,6 +1,7 @@
 package lanqiao;
 
 //在n个球中，任意取出m个（不放回），求又多少种不同的取法
+//平地起风雷
 public class A
 {
 	public static int f(int n,int m)
